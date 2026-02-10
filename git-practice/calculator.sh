@@ -16,3 +16,8 @@ x= a%b
 
 
 
+=======
+this is percentage example
+
+x= a%b
+>>>>>>> 922ee5a (rebase commit)
