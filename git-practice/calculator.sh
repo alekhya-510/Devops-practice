@@ -7,3 +7,12 @@ x=a+b
 this is multiplacation
 
 x=a*b
+
+this is percentage example
+
+x= a%b
+
+
+
+
+
