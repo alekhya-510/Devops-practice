@@ -1,0 +1,10 @@
+# To create image
+docker build -t <docker-username>/<repo-name>:tag .
+
+#if we want to change the image we can do it by 
+docker tag old-image-name new-image-name
+
+# pushing image to the docker
+docker push <image-name>
+#to run a container
+docker run <image-name>
