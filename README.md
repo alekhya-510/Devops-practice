@@ -15,6 +15,8 @@ This repo serves as a living reference for DevOps engineering concepts — built
 
 Structure
 
+
+
 ├── ansible/          # Playbooks and roles for configuration management
 ├── terraform/        # AWS infrastructure provisioning modules
 ├── kubernetes/       # K8s manifests, deployments, and configs
